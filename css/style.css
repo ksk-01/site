@@ -55,7 +55,7 @@ nav{
 		display: none;
 	}
 	.main-menu li{
-		widows: 100%;
+		width: 100%;
 		display: block;
 		font-size: 12 px;
 	}
